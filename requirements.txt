@@ -1,0 +1,10 @@
+tavily-python
+requests
+beautifulsoup4
+playwright
+fpdf2
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+python-dotenv
+lxml
